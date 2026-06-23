@@ -214,7 +214,7 @@ Backend Developer | Machine Learning Enthusiast | Research Aspirant
 * Building intelligent recommendation systems and AI applications
 * Exploring emerging technologies and research-driven solutions
 
-GitHub: https://github.com/bandisaisripraneeth
+GitHub: [https://github.com/bandisaisripraneeth](https://github.com/Saipraneeth13)
 
 ---
 
